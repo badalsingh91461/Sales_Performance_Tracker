@@ -28,6 +28,6 @@ Goal tracking with target vs actual comparison
 
 
 
-![Alt text](  )
+![Alt text](https://github.com/badalsingh91461/Sales_Performance_Tracker/blob/main/Sales_dashboard.png)
 
 
