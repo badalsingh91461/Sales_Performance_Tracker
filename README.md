@@ -8,6 +8,13 @@ An interactive and visually rich dashboard designed to analyze key sales metrics
 
 
 
+
+
+
+
+
+
+
 **
 ****🛠️ Tools & Technologies Used :**
 
@@ -17,6 +24,11 @@ Pivot Tables – Dynamic data summaries and segmentation
 Advanced Excel Formulas – Calculated metrics and trend analysis
 Conditional Formatting – Highlights KPIs and performance indicators
 Slicers & Filters – Enables real-time, user-driven data exploration
+
+
+
+
+
 
 
 
